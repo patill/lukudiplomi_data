@@ -9,6 +9,7 @@
   {"id":1298493,
     "cover":"https://satakirjastot.finna.fi/Cover/Show?author=Hart%2C+Caryl%2C+kirjoittaja&callnumber=&size=medium&title=Avaruusoliot+kyl%C3%A4ss%C3%A4&recordid=satakirjastot.1298493&source=Solr&isbn=9523411713&index=0&w=1200&h=1200",
     "category":1,
-    "tag":"Aika ja avaruus"}
-  
+    "tag":"Aika ja avaruus",
+    "like":true
+  }
 ] 
