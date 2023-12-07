@@ -11,5 +11,12 @@
     "category":1,
     "tag":"Aika ja avaruus",
     "like":true
+  },
+  {
+  "id":1292979,
+    "cover":"https://satakirjastot.finna.fi/Cover/Show?author=Kunnas%2C+Mauri%2C+kirjoittaja%2C+taiteilija&callnumber=&size=large&title=Pieni+avaruuskirja&recordid=satakirjastot.1292979&source=Solr&isbn=9511328298&index=0",
+    "category": 1,
+    "tag":"Aika ja avaruus",
+    "like":true
   }
 ] 
